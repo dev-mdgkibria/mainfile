@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/g_kibria/buying?source=avatar_menu_profile)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/g_kibria)
 
 - 🌱 I’m currently learning **JavaScript| PHP | MySQL | WordPress**
 
 - 👯 I’m looking to collaborate on [Freelancer](https://www.freelancer.com/u/mdkibria23)
 
-- 🤝 I’m looking for help with [Web Design & Development](https://github.com/webkibria)
+- 🤝 I’m looking for help with [Web Design & Development](https://github.com/dev-mdgkibria)
 
 - 👨‍💻 All of my projects are available at [https://github.com/webkibria](https://github.com/webkibria)
 
