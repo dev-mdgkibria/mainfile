@@ -17,13 +17,11 @@
 
 - 🤝 I’m looking for help with [Web Design & Development](https://github.com/dev-mdgkibria)
 
-- 👨‍💻 All of my projects are available at [https://github.com/webkibria](https://github.com/webkibria)
+- 👨‍💻 All of my projects are available at [https://github.com/dev-mdgkibria](https://github.com/dev-mdgkibria)
 
-- 📝 I regularly write articles on [https://github.com/webkibria](https://github.com/webkibria)
+- 📝 I regularly write articles on [https://github.com/dev-mdgkibria](https://github.com/dev-mdgkibria)
 
 - 📫 How to reach me **mdgolamkibria0802@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pMhngKF2T1FKHfYJSKcbt5wLZt_S483x/view?usp=drive_link](https://drive.google.com/file/d/1pMhngKF2T1FKHfYJSKcbt5wLZt_S483x/view?usp=drive_link)
 
 - ⚡ Fun fact **The First Website is Still Online**
 
