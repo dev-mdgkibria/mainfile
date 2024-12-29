@@ -17,11 +17,13 @@
 
 - 🤝 I’m looking for help with [Web Design & Development](https://github.com/dev-mdgkibria)
 
-- 👨‍💻 All of my projects are available at [https://github.com/dev-mdgkibria](https://github.com/dev-mdgkibria)
+- 👨‍💻 All of my projects are available at [https://dev-mdgkibria.github.io/mdgkibria-Portfolio/](https://dev-mdgkibria.github.io/mdgkibria-Portfolio/)
 
-- 📝 I regularly write articles on [https://github.com/dev-mdgkibria](https://github.com/dev-mdgkibria)
+- 📝 I regularly write articles on [https://dev-mdgkibria.github.io/portfolio/](https://dev-mdgkibria.github.io/portfolio/)
 
 - 📫 How to reach me **mdgolamkibria0802@gmail.com**
+
+- 📄 Know about my experiences [http://surl.li/rwamxv](http://surl.li/rwamxv)
 
 - ⚡ Fun fact **The First Website is Still Online**
 
@@ -42,3 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mdgkibria&show_icons=true&locale=en" alt="dev-mdgkibria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdgkibria&" alt="dev-mdgkibria" /></p>
+
